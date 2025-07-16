@@ -8,7 +8,7 @@
             <title>Kaiser Walzer</title>
             <title type="desc">op. 437</title>
             <respStmt>
-               <persName role="composer">Johann Strauss</persName>
+               <persName role="composer">Johann Strauss (Sohn)</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -25,7 +25,7 @@
                <name xml:id="name-ou0fn9">Verovio</name>
                <p xml:id="p-1fnopds">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="adi4rkd1" startdate="2023-04-11T11:36:19" version="0.8.9" enddate="2023-05-04T10:03:16">
+            <application xml:id="adi4rkd1" enddate="2025-07-16T15:44:17" startdate="2023-04-11T11:36:19" version="1.2.6">
                <name xml:id="nsruqwe">mei-friend</name>
                <p xml:id="plhhjvj2">First edit by mei-friend 0.8.7, 21 Mar 2023.</p>
             </application>
@@ -37,6 +37,11 @@
          <mdiv xml:id="m1wn6817">
             <score xml:id="suwq4jo">
                <scoreDef xml:id="s1tepvwq" ending.rend="top" optimize="false">
+                  <pgHead xml:id="phkhi471" func="first">
+                     <rend xml:id="rul98vn2" halign="center" valign="top" fontsize="300%" fontweight="bold">Kaiserwalzer</rend>
+                     <rend xml:id="r3utxoc" halign="right" fontsize="150%">Johann Strauss (Sohn), Op. 437</rend>
+                  </pgHead>
+                  <pgFoot xml:id="p67h47f" />
                   <staffGrp xml:id="s1tbym6v">
                      <staffGrp xml:id="s7odvpo" bar.thru="true">
                         <grpSym xml:id="g1h28we4" symbol="bracket" />
@@ -83779,14 +83784,14 @@
                         </dynam>
                         <tie xml:id="t1rbhvvw" startid="#n16a0hif" endid="#n3pmdcn" />
                         <tie xml:id="trlin" startid="#n1ilqgnp" endid="#nhswcce" />
-                        <dynam xml:id="d1qyowm3" place="below" staff="7" tstamp="2.5" vgrp="4">
-                           <rend xml:id="r1ahuw6b" fontfam="Edwin" fontstyle="italic">cresc.</rend>
+                        <dynam xml:id="d80uqs2" place="below" staff="7" tstamp="2.5" vgrp="4">
+                           <rend xml:id="r0i1coc" fontfam="Edwin" fontstyle="italic">cresc.</rend>
                         </dynam>
                         <dynam xml:id="d60mcl5" place="below" staff="8" tstamp="2.5" vgrp="4">
                            <rend xml:id="rrkakde" fontfam="Edwin" fontstyle="italic">cresc.</rend>
                         </dynam>
-                        <dynam xml:id="d11wrskm" place="below" staff="9" tstamp="2.5" vgrp="4">
-                           <rend xml:id="rj0t7ri" fontfam="Edwin" fontstyle="italic">cresc.</rend>
+                        <dynam xml:id="dgciksf1" place="below" staff="9" tstamp="2.5" vgrp="4">
+                           <rend xml:id="rj9xeek1" fontfam="Edwin" fontstyle="italic">cresc.</rend>
                         </dynam>
                         <dynam xml:id="d14rsi99" place="below" staff="12" tstamp="1" vgrp="5">
                            <rend xml:id="r1hogvnk" fontfam="Edwin" fontstyle="italic">cresc.</rend>
@@ -85242,7 +85247,7 @@
                         </staff>
                         <staff xml:id="s1d64hee" n="20">
                            <layer xml:id="l156tz4d" n="1">
-                              <note xml:id="n1434uyq" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="n6kn00r2" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
                            </layer>
                         </staff>
                         <tie xml:id="tie-0000000113267639" startid="#n1e1wkfm" endid="#nrmxhyy" />
@@ -85415,12 +85420,12 @@
                         </staff>
                         <staff xml:id="s33z4za" n="19">
                            <layer xml:id="llv3l89" n="1">
-                              <note xml:id="nweh4y" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="n65zpjq1" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
                            </layer>
                         </staff>
                         <staff xml:id="ss1l83k" n="20">
                            <layer xml:id="l1y0axe4" n="1">
-                              <note xml:id="n17h7yrf" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="nyxmumv1" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
                            </layer>
                         </staff>
                         <tie xml:id="tie-0000000110604988" startid="#nrmxhyy" endid="#n1hx2rg7" />
@@ -85588,12 +85593,12 @@
                         </staff>
                         <staff xml:id="sxagvhc" n="19">
                            <layer xml:id="lg9cny1" n="1">
-                              <note xml:id="n1fwy3o4" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="nw84p88" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
                            </layer>
                         </staff>
                         <staff xml:id="s13gx0pq" n="20">
                            <layer xml:id="l1e40x1d" n="1">
-                              <note xml:id="n1pru6n" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
+                              <note xml:id="nxwgotm1" dots="1" dur="2" oct="3" pname="c" stem.dir="up" stem.mod="1slash" />
                            </layer>
                         </staff>
                         <tie xml:id="tie-0000000181424081" startid="#n1hx2rg7" endid="#n6c1h2a" />
