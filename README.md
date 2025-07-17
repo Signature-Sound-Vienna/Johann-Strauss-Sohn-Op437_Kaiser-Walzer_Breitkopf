@@ -1,4 +1,4 @@
-# Johann Strauss Sohn: Op. 437 *Kaiser-Walzer* (Emperor Waltz)
+# Johann Strauss Sohn: *Kaiser-Walzer* Op. 437
 
 MEI encoding of the Kaiser-Walzer (Emperor Walz), Op.437 by Johann Strauss Sohn (Johann Strauss junior), following the [Breitkopf & Härtel edition from ca. 1920](https://imslp.org/wiki/Special:ReverseLookup/834308), as available on IMSLP.
 
