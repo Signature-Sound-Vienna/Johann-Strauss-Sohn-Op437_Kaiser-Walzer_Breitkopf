@@ -10,3 +10,5 @@ The following encoding files are available in this repository:
  - Shortest_Version_Karajan1946: Expansion corresponding to the structure performed by the VPO in 1946 under Karajan: no dal Segno after the 4th Waltz, taking an extended 'Ballsprung' to Measure 498. 
 
 The expanded versions of the encoding are automatically generated from the orchestral score version using [Verovio](https://verovio.org), and are intended for use-cases of automated alignment with performance recordings.
+
+These encodings were created as part of the [Signature Sound Vienna](https://iwk.mdw.ac.at/signature-sound-vienna) project and are released under a CC-BY 4.0 License (see LICENSE.md). Funded by the Austrian Science Fund <https://doi.org/10.55776/P34664>
