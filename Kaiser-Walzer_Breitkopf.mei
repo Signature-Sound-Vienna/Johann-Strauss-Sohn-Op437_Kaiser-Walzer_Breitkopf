@@ -34081,7 +34081,6 @@
                         </staff>
                         <slur xml:id="s1ebrkq6" curvedir="above" endid="#n1f5d85q" startid="#nxam1g6"/>
                         <slur xml:id="s10fc6d3" curvedir="above" endid="#n8nz4sr" startid="#n15bzo8"/>
-                        <slur xml:id="s13ugwtk" curvedir="above" endid="#n1u8atjy" startid="#n1hgzcgc"/>
                         <slur xml:id="s16yws3n" curvedir="above" endid="#niex5en" startid="#n1xg2b2c"/>
                         <slur xml:id="sqilm0k" curvedir="above" endid="#n1pe056" startid="#n8jfqv3"/>
                         <slur xml:id="s1op2ldq" curvedir="above" endid="#n1hdkrbk" startid="#n13vp0yj"/>
@@ -51566,7 +51565,6 @@
                            <slur xml:id="sp1r1uu" curvedir="above" endid="#n1ey737t" startid="#n83z9xx"/>
                            <slur xml:id="s13tknbb" curvedir="above" endid="#n1q209e0" startid="#n1x9jy7k"/>
                            <slur xml:id="s18prqq0" curvedir="above" endid="#n1u9qbsi" startid="#n1qrhy4p"/>
-                           <slur xml:id="s1lv84az" curvedir="above" endid="#n1bnd3kh" startid="#n1u1ytkf"/>
                            <slur xml:id="st7wv3f" curvedir="above" endid="#n1crtj6y" startid="#n10ygq4f"/>
                         </measure>
                         <measure xml:id="mvffwbb" n="305" right="dbl">
@@ -56522,7 +56520,6 @@
                         <slur xml:id="s1xro0jb" curvedir="below" endid="#n6sdec7" startid="#n1c6sdhr"/>
                         <slur xml:id="sonrbrj" curvedir="above" endid="#ncol36v" startid="#nv0e0t2"/>
                         <slur xml:id="s13tj6g9" curvedir="below" endid="#n1s3nxyh" startid="#nzougr4"/>
-                        <slur xml:id="svooxk4" endid="#n2gi0no" staff="1" startid="#nh3kiik"/>
                         <slur xml:id="siq3okv2" endid="#n5mrq6w" staff="1" startid="#nh3kiik"/>
                      </measure>
                      <measure xml:id="my7sb8x" n="333">
@@ -69642,7 +69639,6 @@
                         <slur xml:id="s1ur3sp" curvedir="below" endid="#nwlko0a" startid="#n1wp7zu0"/>
                         <slur xml:id="sfpjh5y" curvedir="above" endid="#n14hnsv0" startid="#n1e02xl9"/>
                         <slur xml:id="s1ojl4zl" curvedir="above" endid="#npxiicx" startid="#n118439l"/>
-                        <slur xml:id="s1dmugg8" curvedir="below" endid="#nk1zujp" startid="#n2hxr3"/>
                         <slur xml:id="s9vy5o9" curvedir="above" endid="#njth6v8" startid="#njsjn41"/>
                         <slur xml:id="s1hp1x7z" curvedir="below" endid="#n1rthm8h" startid="#n1qlovi0"/>
                         <slur xml:id="saqlmi9" curvedir="below" endid="#n5jlmzx" startid="#n1dgxgvw"/>
