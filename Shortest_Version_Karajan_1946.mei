@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -33993,7 +33993,6 @@
                         </staff>
                         <slur xml:id="s1ebrkq6" startid="#nxam1g6" endid="#n1f5d85q" curvedir="above" />
                         <slur xml:id="s10fc6d3" startid="#n15bzo8" endid="#n8nz4sr" curvedir="above" />
-                        <slur xml:id="s13ugwtk" startid="#n1hgzcgc" endid="#n1u8atjy" curvedir="above" />
                         <slur xml:id="s16yws3n" startid="#n1xg2b2c" endid="#niex5en" curvedir="above" />
                         <slur xml:id="sqilm0k" startid="#n8jfqv3" endid="#n1pe056" curvedir="above" />
                         <slur xml:id="s1op2ldq" startid="#n13vp0yj" endid="#n1hdkrbk" curvedir="above" />
@@ -51155,7 +51154,6 @@
                            <slur xml:id="sp1r1uu" startid="#n83z9xx" endid="#n1ey737t" curvedir="above" />
                            <slur xml:id="s13tknbb" startid="#n1x9jy7k" endid="#n1q209e0" curvedir="above" />
                            <slur xml:id="s18prqq0" startid="#n1qrhy4p" endid="#n1u9qbsi" curvedir="above" />
-                           <slur xml:id="s1lv84az" startid="#n1u1ytkf" endid="#n1bnd3kh" curvedir="above" />
                            <slur xml:id="st7wv3f" startid="#n10ygq4f" endid="#n1crtj6y" curvedir="above" />
                         </measure>
                         <measure xml:id="mvffwbb" right="dbl" n="305">
@@ -55905,7 +55903,6 @@
                         <slur xml:id="s1xro0jb" startid="#n1c6sdhr" endid="#n6sdec7" curvedir="below" />
                         <slur xml:id="sonrbrj" startid="#nv0e0t2" endid="#ncol36v" curvedir="above" />
                         <slur xml:id="s13tj6g9" startid="#nzougr4" endid="#n1s3nxyh" curvedir="below" />
-                        <slur xml:id="svooxk4" staff="1" startid="#nh3kiik" endid="#n2gi0no" />
                         <slur xml:id="siq3okv2" staff="1" startid="#nh3kiik" endid="#n5mrq6w" />
                      </measure>
                      <measure xml:id="my7sb8x" n="333">
@@ -69023,7 +69020,6 @@
                         <slur xml:id="s1ur3sp" startid="#n1wp7zu0" endid="#nwlko0a" curvedir="below" />
                         <slur xml:id="sfpjh5y" startid="#n1e02xl9" endid="#n14hnsv0" curvedir="above" />
                         <slur xml:id="s1ojl4zl" startid="#n118439l" endid="#npxiicx" curvedir="above" />
-                        <slur xml:id="s1dmugg8" startid="#n2hxr3" endid="#nk1zujp" curvedir="below" />
                         <slur xml:id="s9vy5o9" startid="#njsjn41" endid="#njth6v8" curvedir="above" />
                         <slur xml:id="s1hp1x7z" startid="#n1qlovi0" endid="#n1rthm8h" curvedir="below" />
                         <slur xml:id="saqlmi9" startid="#n1dgxgvw" endid="#n5jlmzx" curvedir="below" />
