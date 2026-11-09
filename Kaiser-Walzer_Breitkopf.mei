@@ -27143,7 +27143,7 @@
                            <staff xml:id="s19oj6st" n="9">
                               <layer xml:id="l1ypsdo2" n="1">
                                  <chord xml:id="c1igkrg1" dots="1" dur="2" stem.dir="up">
-                                    <note xml:id="n1h5qplg" accid.ges="f" oct="4" pname="d"/>
+                                    <note xml:id="n1h5qplg" accid="f" oct="4" pname="d"/>
                                     <note xml:id="nbxvz9t" accid.ges="f" oct="4" pname="e"/>
                                  </chord>
                               </layer>
@@ -50609,7 +50609,7 @@
                               <layer xml:id="ldu0tm" n="1">
                                  <chord xml:id="czm9sof" dots="1" dur="2" stem.dir="up">
                                     <note xml:id="nlgr70l" oct="4" pname="g"/>
-                                    <note xml:id="nb2x335" accid.ges="f" oct="4" pname="b"/>
+                                    <note xml:id="nb2x335" accid="f" oct="4" pname="b"/>
                                  </chord>
                               </layer>
                            </staff>
@@ -66340,7 +66340,7 @@
                         </staff>
                         <staff xml:id="s1f3jubk" n="4">
                            <layer xml:id="lo1r9yx" n="1">
-                              <note xml:id="nxg6ms1" dur="2" oct="5" pname="f" stem.dir="down">
+                              <note xml:id="nxg6ms1" accid.ges="s" dur="2" oct="5" pname="f" stem.dir="down">
                                  <artic xml:id="a9ia57f" artic="marc"/>
                               </note>
                               <note xml:id="n6mhoii" dur="8" oct="5" pname="d" stem.dir="down"/>
